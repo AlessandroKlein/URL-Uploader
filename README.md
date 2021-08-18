@@ -1,47 +1,47 @@
-## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
+## Hecho de [AnyDLBot] (https://telegram.dog/AnyDLBot)
 
-ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
+TODOS LOS CRÉDITOS VA A LOS QUERIDOS DESARROLLADORES :)
 
-#### If you find any bugs, report to [Zaute Km](https://t.me/iZaute/5)
+#### Si encuentra algún error, informe a [Zaute Km] (https://t.me/iZaute/5)
 
-### Features
+### Características
 
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+👉 Todos los formatos de video admitidos de https://rg3.github.io/youtube-dl/supportedsites.html
 
-👉 Upload as file from any HTTP link
+👉 Cargar como archivo desde cualquier enlace HTTP
 
-👉 Permanent thumbnail support.
+👉 Soporte de miniaturas permanente.
 
-👉 Added HOTSTAR Link Support!!  (Won't work on European Servers!!)
+👉 ¡Añadido soporte de enlace HOTSTAR! (¡No funcionará en servidores europeos!)
 
 
 
-### Installation
+### Instalación
 
-#### The Easiest Way
+#### La forma más fácil
 
-**Upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+** Actualice ** su suscripción a [@AnyDLBot] (https://telegram.dog/AnyDLBot) sin tener que ejecutar nada por su cuenta
 
 ## Config Vars 🤖
 
-- `API_HASH:` Get this value from [my.telegram.org](https://my.telegram.org) or [@UseTGzKBot <img src="https://telegra.ph/file/23d7c928f000aee982a4a.jpg" width="30" height="30">](https://telegram.dog/UseTGzKbot).
+- `API_HASH:` Obtenga este valor de [my.telegram.org] (https://my.telegram.org) o [@UseTGzKBot <img src = "https://telegra.ph/file/23d7c928f000aee982a4a.jpg" ancho = "30" alto = "30">] (https://telegram.dog/UseTGzKbot).
 
-- `APP_ID:` Get this value from [my.telegram.org](https://my.telegram.org) or [@UseTGzKBot <img src="https://telegra.ph/file/23d7c928f000aee982a4a.jpg" width="30" height="30">](https://telegram.dog/UseTGzKbot).
+- `APP_ID:` Obtén este valor de [my.telegram.org] (https://my.telegram.org) o [@UseTGzKBot <img src = "https://telegra.ph/file/23d7c928f000aee982a4a.jpg" ancho = "30" alto = "30">] (https://telegram.dog/UseTGzKbot).
 
-- `TG_BOT_TOKEN:` Get the bot token from [Bot Father <img src="https://telegra.ph/file/8d80c13110506bf1cb58e.jpg" width="30" height="30">](https://telegram.dog/BotFather)
+- `TG_BOT_TOKEN:` Obtén el token de bot de [Bot Father <img src = "https://telegra.ph/file/8d80c13110506bf1cb58e.jpg" width = "30" height = "30">] (https: // telegrama .dog / BotFather)
 
-- `CHAT_BASE_TOKEN` Your chat base token, as a string from [chatbase.com <img src="https://telegra.ph/file/8e26e137595ffee3ed1f4.jpg" width="30" height="30">](https://chatbase.com)
+- `CHAT_BASE_TOKEN` Su token de base de chat, como una cadena de [chatbase.com <img src =" https://telegra.ph/file/8e26e137595ffee3ed1f4.jpg "width =" 30 "height =" 30 ">] (https : //chatbase.com)
 
-- `AUTH_USERS` Allow only pre-defined users to use this bot Get From [@TGPyRoBot <img src="https://telegra.ph/file/14f9e7c35e646c249ddd3.jpg" width="30" height="30">](https://telegram.dog/TGPyRoBot)
+- `AUTH_USERS` Permitir que solo los usuarios predefinidos usen este bot Get From [@TGPyRoBot <img src =" https://telegra.ph/file/14f9e7c35e646c249ddd3.jpg "width =" 30 "height =" 30 ">] (https://telegram.dog/TGPyRoBot)
 
-- `UPDATE_CHANNEL` For Force Subscribe. Paste your Update channel USERNAME (without @)..
+- `UPDATE_CHANNEL` Para Forzar Suscripción. Pega tu canal de actualización NOMBRE DE USUARIO (sin @) ..
 
-## Deploy to heroku 🗳
-Press the button Deploy to heroku and give the values for the config vars. 👇
+## Implementar en heroku 🗳
+Presione el botón Implementar en heroku y proporcione los valores para las variables de configuración. 👇
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/URL-Uploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlessandroKlein/URL-Uploader)
 
-#### Run in your VPS
+#### Corre en tu VPS
 ```sh
 git clone https://github.com/InFoJosTel/URL-Uploader
 cd URL-Uploader
@@ -50,10 +50,10 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 
-### Commands
+### Comandos
 
-* /start             - Check if bot is alive
-* /help              - To know how the bot works
-* /upgrade           - Nothing much here
-* /deletethumbnail   - Clear saved thumbnail
-* /showthumb         - Show saved thumbnail
+* /start             - Comprueba si el bot está vivo
+* /help              - Para saber cómo funciona el bot
+* /upgrade           - Nada es mucho aqui
+* /deletethumbnail   - Borrar miniatura guardada
+* /showthumb         - Mostrar miniatura guardada
